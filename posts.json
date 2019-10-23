@@ -1,0 +1,33 @@
+{
+  "posts":
+  [
+    {
+      "publisher":"adambrowski",
+      "title":"TestTitle",
+      "caption":"Ok, this is a quick test.",
+      "likes":9,
+      "comments":
+      [{
+        "publisher":"kowalre",
+        "comment":"Woow, i wish i could do that aswell",
+        "likes":2
+      },{
+        "publisher":"simor",
+        "comment":"Cool",
+        "likes":0
+      }]
+    },
+    {
+      "publisher":"samper",
+      "title":"Cool hat",
+      "caption":"I saw a really cool hat today! :)",
+      "likes":3,
+      "comments":
+      [{
+        "publisher":"yolokid1337",
+        "comment":"no1 acctually cares",
+        "likes":24
+      }]
+    }
+  ]
+}
