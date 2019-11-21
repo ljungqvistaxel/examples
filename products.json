@@ -6,7 +6,7 @@
     "price":"6999kr",
     "image":"https://www.netonnet.se/GetFile/ProductImagePrimary/ljud-och-bild/tv/55-60tum/samsung-ue55ru7305kxxc(1007288)_340687_1_Normal_Large.webp",
     "id":"0"
-    "tags":["tv"]
+    "tags":[{"tv"}]
   },
   {
     "title":"OnePlus 7T",
