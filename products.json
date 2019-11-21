@@ -1,4 +1,21 @@
 {
-  
+  "products":[{
+    "title":"Stor TV för stora personer",
+    "brand":"Samsung",
+    "description":"Denna TV-apparaten tillhör den osm gillar att",
+    "price":"6999kr",
+    "image":"https://www.netonnet.se/GetFile/ProductImagePrimary/ljud-och-bild/tv/55-60tum/samsung-ue55ru7305kxxc(1007288)_340687_1_Normal_Large.webp",
+    "id":"0"
+    "tags":["tv"]
+  },
+  {
+    "title":"OnePlus 7T",
+    "brand":"OnePlus",
+    "description":"Höga hastigheter för höga personer",
+    "price":"6795kr",
+    "image":"https://cdn.opstatics.com/store/20170907/assets/images/events/2019/08/hotdog/19801/overview/footer/list2.jpg",
+    "id":"1"
+    "tags":["telefon","android"]
+  }]
 
 }
